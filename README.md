@@ -66,5 +66,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxgi&" alt="rxgi" /></p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4137295" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Regi.uk.png" alt="Your Image Badge" />
 
