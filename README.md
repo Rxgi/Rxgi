@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Databases, Discrete Maths, Python**
 
-- 👨‍💻 All of my projects are available at [reagandunning.com](reagandunning.com)
+- 👨‍💻 All of my projects are available at [reagandunning.com](https://reagandunning.com)
 
 - 📫 How to reach me **businessregi2@gmail.com**
 
