@@ -2,9 +2,9 @@
 <h3 align="center">A Computer Science Student From The UK! 🇬🇧</h3>
 
 
-- 🔭 I’m currently working on A Portfolio!
+- 🔭 I’m currently working on Advent-Of-Code-2025!
 
-- 🌱 I’m currently learning **Databases, Discrete Maths, Python**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [reagandunning.com](https://reagandunning.com)
 
