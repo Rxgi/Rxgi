@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on ATOM!
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [reagandunning.com](https://reagandunning.com)
 
 - 📫 How to reach me **businessregi2@gmail.com**
 
-- 📄 Know about my experiences [https://reagancv.tiiny.site](https://reagancv.tiiny.site)
+- 📄 Know about my experiences [https://regicv.tiiny.site](https://regicv.tiiny.site)
 
 - ⚡ Fun fact **I am Currently At University!**
 
