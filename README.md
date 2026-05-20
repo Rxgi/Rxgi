@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Student From The UK! 🇬🇧</h3>
 
 
-- 🔭 I’m currently working on Advent-Of-Code-2025!
+- 🔭 I’m currently working on ATOM!
 
 - 🌱 I’m currently learning **Python**
 
