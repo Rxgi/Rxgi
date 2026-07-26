@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **businessregi2@gmail.com**
 
-- 📄 Know about my experiences [https://regicv.tiiny.site](https://regicv.tiiny.site)
+- 📄 Know about my experiences [https://example.com/](https://example.com/)
 
 - ⚡ Fun fact **I am Currently At University!**
 
